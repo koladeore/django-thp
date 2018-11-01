@@ -1,0 +1,10 @@
+.navbar-nav{
+  flex-direction: row;
+}
+li{
+  padding: 50px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
